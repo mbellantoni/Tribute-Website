@@ -1,0 +1,22 @@
+.container {
+  diplay: flex;
+  text-align: center;
+  margin: auto;
+}
+#image{
+  height: auto;
+  inline-box-align: center;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 675px;
+}
+.image {
+  width: 600px;
+}
+#title {
+  background-color: grey
+}
+#tribute-info {
+  font-size: 15px;
+}
